@@ -1,0 +1,18 @@
+{
+    "name": "mrivera/ip2location",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Mario Rivera",
+            "email": "mariort@outlook.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4" : {
+            "mrivera\\ip2location\\" : "src"
+        },
+        "files": [ "./src/constants.php" ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./ip2location"
+        }
+    ],
+    "require": {
+        "mrivera/ip2location": "*"
+    }
+}

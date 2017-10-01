@@ -1,0 +1,5 @@
+vendor
+
+ip2location/sqlite/*
+!ip2location/sqlite/import.sqlite
+!ip2location/sqlite/IP2LOCATION-LITE-DB3.CSV.zip
